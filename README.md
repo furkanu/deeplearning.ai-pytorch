@@ -1,5 +1,5 @@
 # deeplearning.ai in PyTorch
-I have implemented tensorflow and/or Keras versions of some assignments in PyTorch.
+PyTorch implementations of some assignments which were originally given in tensorflow and/or Keras.
 I might try to implement other assignments in the future as well.
 <br>
 
