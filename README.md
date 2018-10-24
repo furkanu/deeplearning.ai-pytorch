@@ -17,6 +17,9 @@ PyTorch implementations of some assignments which were originally given in tenso
 * <b>Course 5 - Sequence Models</b>
    * <b>Week 1</b>
        * Dinosaur Island -- Character-level language model ✔
+   * <b>Week 2</b>
+       * Emojify
+            * 1 - Baseline model: Emojifier-V1 ✔
 ---
 
 
